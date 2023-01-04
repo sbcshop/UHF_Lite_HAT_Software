@@ -1,1 +1,2 @@
-# UHF_Lite_HAT_Software
+# UHF Lite HAT
+
