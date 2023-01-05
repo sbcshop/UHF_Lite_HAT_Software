@@ -25,7 +25,7 @@ Image2
 
 ## Documentation
 
-* [UHF Lite HAT Hardware]()
+* [UHF Lite HAT Hardware](https://github.com/sbcshop/UHF_Lite_HAT_Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
