@@ -1,6 +1,6 @@
 ## UHF Lite HAT
 
-UHF Lite HAT is an advanced and compact "Ultra High Frequency" RFID reader HAT for raspberry Pi that consists of a powerful RFID technology designing for a broad range of applications in the defense, healthcare system, banks, offices etc. UHF HAT for Raspberry Pi has an onboard ThingMagic® M6E Nano UHF RFID Reader that is JADAK’s smallest embeddable module with ultra-low power consumption and tiny form factor. This RFID reader is ideal for battery operated, low-cost, small form factor portable devices.
+UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in the frequency range of 300 MHz to 3 GHz. UHF modules are commonly used in wireless communication systems, including radio-frequency identification (RFID) systems, Wi-Fi networks, and other short-range wireless communication applications. UHF modules are designed to transmit and receive signals over short distances, typically up to several hundred meters, and they offer advantages such as high data transfer rates, low power consumption, and low cost.It has onboard anteena
 
  <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.png" />
 
