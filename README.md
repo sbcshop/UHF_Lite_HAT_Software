@@ -31,6 +31,7 @@ UHF Lite HAT is an advanced and compact "Ultra High Frequency" RFID reader HAT f
 ## Configure UHF from Application
 You can download this application from below link:
 https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/uhf%20lite.rar
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.JPG"/>
 
 ## Documentation
 
