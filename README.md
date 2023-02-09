@@ -28,12 +28,12 @@ UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in
 
 <img src ="https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img22.png" />
 
-## Configure UHF from Application
+## Configure UHF Lite from Application
 You can download this application from below link:
 https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/uhf%20lite.rar
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.JPG"/>
 
-## Configure Module from Application
+Connect USB to UHF HAT, Make sure change the jumper wire as per image
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/UHF%20Lite%20HAT.png"/>
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img1.png"/>
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img2.png"/>
