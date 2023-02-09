@@ -48,6 +48,9 @@ Make sure change the jumper wire as per below image
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img7.png"/>
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img8.png"/>
 
+## UHF Lite HAT Command Manual
+https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/UHF%20Lite%20Manual.docx
+
 ## Documentation
 
 * [UHF Lite HAT Hardware](https://github.com/sbcshop/UHF_Lite_HAT_Hardware)
