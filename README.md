@@ -34,14 +34,15 @@ https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/uhf%20lite.rar
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.JPG"/>
 
 ## Configure Module from Application
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img1.JPG"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img2.JPG"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img3.JPG"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img4.JPG"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img5.JPG"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img6.JPG"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img7.JPG"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img8.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/UHF%20Lite%20HAT.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img1.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img2.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img3.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img4.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img5.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img6.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img7.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img8.png"/>
 
 ## Documentation
 
