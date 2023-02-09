@@ -14,6 +14,12 @@ Image1
 * Default and recommend cummunication baud rate is 115200 bps
 * Output power is 18-26 dbm
 
+## Onboard antenna character：
+ * Be sensitive and stable to the tags identify.
+ * Stable reading distance 1 meter and Reading distance speed, >50pcs/sec.
+ * Muti-tags identify, >50pcs tags.
+
+4. 
 ## Hardware Overview
  
 Image2
