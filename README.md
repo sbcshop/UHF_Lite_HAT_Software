@@ -16,6 +16,8 @@ Image1
 * Protocol - EPCglobal UHF Class 1 Gen 2 / ISO 18000-6C
 * Frequency - 840-960MHZ
 * Output power- 18 to 26 dBm
+* Tags RSSI support
+* Air cooling(no need for out install cooling fan）
 
 ## Onboard antenna character：
  * Be sensitive and stable to the tags identify.
