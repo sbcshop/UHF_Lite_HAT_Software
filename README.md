@@ -13,6 +13,8 @@ Image1
 * TTL UART interface
 * Default and recommend cummunication baud rate is 115200 bps
 * Output power is 18-26 dbm
+* Protocol - EPCglobal UHF Class 1 Gen 2 / ISO 18000-6C
+* Frequency - 840-960MHZ
 
 ## Onboard antenna character：
  * Be sensitive and stable to the tags identify.
