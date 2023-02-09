@@ -34,11 +34,11 @@ https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/uhf%20lite.rar
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.JPG"/>
 
 Connect USB to UHF HAT
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img11.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/UHF%20Lite%20HAT.png"/>
 
 Make sure change the jumper wire as per below image
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.JPG"/>
-<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/UHF%20Lite%20HAT.png"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img11.JPG"/>
+
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img1.png"/>
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img2.png"/>
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img3.png"/>
