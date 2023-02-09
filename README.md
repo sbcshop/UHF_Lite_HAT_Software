@@ -23,8 +23,6 @@ Image1
  * Be sensitive and stable to the tags identify.
  * Stable reading distance 1 meter and Reading distance speed, >50pcs/sec.
  * Muti-tags identify, >50pcs tags.
-
-4. 
 ## Hardware Overview
  
 Image2
