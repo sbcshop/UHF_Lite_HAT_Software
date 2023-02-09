@@ -24,9 +24,9 @@ UHF Lite HAT is an advanced and compact "Ultra High Frequency" RFID reader HAT f
  * Stable reading distance 1 meter and Reading distance speed, >50pcs/sec.
  * Muti-tags identify, >50pcs tags.
 ## Hardware Overview
-<img src ="https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img1.png" />
+<img src ="https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img11.png" />
 
-<img src ="https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img2.png" />
+<img src ="https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img22.png" />
 
 
 
