@@ -33,6 +33,16 @@ You can download this application from below link:
 https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/uhf%20lite.rar
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.JPG"/>
 
+## Configure Module from Application
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img1.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img2.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img3.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img4.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img5.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img6.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img7.JPG"/>
+<img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img8.JPG"/>
+
 ## Documentation
 
 * [UHF Lite HAT Hardware](https://github.com/sbcshop/UHF_Lite_HAT_Hardware)
