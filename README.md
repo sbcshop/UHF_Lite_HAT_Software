@@ -33,7 +33,7 @@ UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in
   
  ```git clone https://github.com/sbcshop/UHF_Lite_HAT_Software```
  
- before running the code make sure connect the jumperwire as per below image
+ before running the code make sure connect the jumper wires as per below image
  <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/UHF.png"/>
  After that go to Examples and run the code
 
