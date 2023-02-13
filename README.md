@@ -29,9 +29,11 @@ UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in
 <img src ="https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img22.png" />
 
 ## Connect UHF HAT To Raspberry Pi
-  Download UHF HA repository
+  Download UHF HAT repository
   
  ```git clone https://github.com/sbcshop/UHF_Lite_HAT_Software```
+ 
+ After that go to Examples and run the code
 
 ## Configure UHF Lite from Application
 You can download this application from below link:
