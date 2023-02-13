@@ -2,7 +2,7 @@
 
 UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in the frequency range of 300 MHz to 3 GHz. UHF modules are commonly used in wireless communication systems, including radio-frequency identification (RFID) systems, Wi-Fi networks, and other short-range wireless communication applications. UHF modules are designed to transmit and receive signals over short distances, typically up to several hundred meters, and they offer advantages such as high data transfer rates, low power consumption, and low cost.It has onboard anteena
 
- <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.png" />
+ <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.jpg" />
 
 ## Features/Specifications:
 
