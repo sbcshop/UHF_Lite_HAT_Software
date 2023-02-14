@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 import time
 import serial
 import sys
-sys.path.insert(0,'/home/pi/Desktop/UHF_LITE_HAT/Library')# Make sure use your library path here
+sys.path.insert(0,'/home/pi/UHF_Lite_HAT_Software-main/Library')# Make sure use your library path here
 from oled_091 import SSD1306
 from uhf import UHF
 from os import path
