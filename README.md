@@ -4,7 +4,7 @@ UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in
 
  <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.jpg" />
 
-## Features/Specifications:
+## Features/Specifications(Module):
 
 * Operating Voltage of DC 3.5-5volt
 * Operating Temprature -20 C to -70 C
