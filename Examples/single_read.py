@@ -2,9 +2,8 @@
 #This file show single read function
 import time
 import sys
-sys.path.insert(0,'/home/pi/UHF_Lite_HAT_Software-main/Library')# Make sure use your library path here
-from uhf import UHF
-
+sys.path.append("..")
+from Library import uhf 
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
@@ -16,7 +15,7 @@ GPIO.output(7,GPIO.LOW)# Enable the module
 baudrate ='115200'
 port     ='/dev/ttyS0'
 
-uhf = UHF(port,baudrate)
+uhf = uhf.UHF(port,baudrate)
 rev = uhf.single_read()
 if rev is not None:
    print('EPC = ',rev[8:20])
