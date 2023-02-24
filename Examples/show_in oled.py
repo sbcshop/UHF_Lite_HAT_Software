@@ -3,7 +3,9 @@ import RPi.GPIO as GPIO
 import time
 import serial
 import sys
-sys.path.insert(0,'/home/pi/UHF_Lite_HAT_Software-main/Library')# Make sure use your library path here
+sys.path.append("..")
+from Library import uhf 
+
 from oled_091 import SSD1306
 from uhf import UHF
 from os import path
@@ -20,7 +22,7 @@ FontSize = path.join(DIR_PATH, "Fonts/GothamLight.ttf")
 baudrate ='115200' # default baudrate
 port     ='/dev/ttyS0'
 
-uhf = UHF(port,baudrate)
+uhf = uhf.UHF(port,baudrate)
 
 display = SSD1306()
 
