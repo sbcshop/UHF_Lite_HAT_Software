@@ -15,6 +15,10 @@ port     ='/dev/ttyS0'
 
 uhf = uhf.UHF(port,baudrate)
 
+'''
+Uncomment corresponding section to increase reading range,
+you will have to set the region as per requirment
+'''
 #uhf.setRegion_EU() 
 #uhf.setRegion_US()
 
