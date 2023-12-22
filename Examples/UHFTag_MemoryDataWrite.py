@@ -45,7 +45,7 @@ Checksum (of Previous EPC) + PC(of Previous EPC) + EPC (change with NEW) =>
 10c9 + 3400 + 80464500e280101010121100
 
 To get checksum and PC of Tag run below script first,
-https://github.com/sbcshop/UHF_Reader_Pico_W_Software/blob/main/examples/UHF_multipleRead_test.py
+https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/Examples/multiple_read.py
 '''
 
 #Change Data which you want to Write, in case of EPC write build correct data format as shown above
