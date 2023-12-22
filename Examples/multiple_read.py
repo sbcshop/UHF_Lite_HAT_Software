@@ -14,6 +14,10 @@ baudrate ='115200' # default baudrate
 port     ='/dev/ttyS0'
 
 uhf = uhf.UHF(port,baudrate)
+
+#uhf.setRegion_EU() 
+#uhf.setRegion_US()
+
 uhf.multiple_read()
 try:
     while 1:
