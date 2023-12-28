@@ -1,18 +1,19 @@
 ## UHF Lite HAT
 
-UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in the frequency range of 300 MHz to 3 GHz. UHF modules are commonly used in wireless communication systems, including radio-frequency identification (RFID) systems, Wi-Fi networks, and other short-range wireless communication applications. UHF modules are designed to transmit and receive signals over short distances, typically up to several hundred meters, and they offer advantages such as high data transfer rates, low power consumption, and low cost.It has onboard anteena
+UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in the frequency range of 300 MHz to 3 GHz. UHF modules are commonly used in wireless communication systems, including radio-frequency identification (RFID) systems, Wi-Fi networks, and other short-range wireless communication applications. UHF modules are designed to transmit and receive signals over short distances, typically up to several hundred meters, and they offer advantages such as high data transfer rates, low power consumption, and low cost. It has onboard antenna
 
  <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.jpg" />
 
 ## Features/Specifications(Module):
 
 * Operating Voltage of DC 3.5-5volt
+* Support Read and Write operation 
 * Operating Temprature -20 C to -70 C
 * Frequency 840 to 960MHz
 * Support RSSI Tags
 * TTL UART interface
-* Default and recommend communication baud rate is 115200 bps
-* Output power is 18-26 dbm
+* Default and the recommended communication baud rate is 115200 bps
+* Output power is 18-26 dBm
 * Protocol - EPCglobal UHF Class 1 Gen 2 / ISO 18000-6C
 * Frequency - 840-960MHZ
 * Output power- 18 to 26 dBm
@@ -20,8 +21,8 @@ UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in
 * Air cooling(no need for out install cooling fan）
 
 ## Onboard antenna character：
- * Be sensitive and stable to the tags identify.
- * Stable reading distance 1 meter and Reading distance speed, >50pcs/sec.
+ * Be sensitive and stable to the tags identified.
+ * Stable reading distance of 1 meter and Reading distance speed, >50pcs/sec.
  * Muti-tags identify, >50pcs tags.
 ## Hardware Overview
 <img src ="https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img11.png" />
@@ -29,22 +30,22 @@ UHF (Ultra High Frequency) Lite HAT is a radio frequency device that operates in
 <img src ="https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img22.jpg" />
 
 ## Connect UHF HAT To Raspberry Pi
-  Download UHF HAT repository
+  Download the UHF HAT repository
   
  ```git clone https://github.com/sbcshop/UHF_Lite_HAT_Software```
  
- before running the code make sure connect the jumper wires as per below image
+ before running the code make sure to connect the jumper wires as per the below image
  <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/UHF.png"/>
  After that go to Examples and run the code
 
 ## Configure UHF Lite from Application
-You can download this application from below link:
+You can download this application from the below link:
 https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/uhf%20lite.rar
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img.JPG"/>
 
 Connect USB to UHF HAT
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/UHF%20Lite%20HAT.jpg"/>
-Make sure change the jumper wire as per upper image
+Make sure to change the jumper wire as per the upper image
 
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img1.png"/>
 <img src = "https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/images/img2.png"/>
@@ -83,7 +84,7 @@ https://github.com/sbcshop/UHF_Lite_HAT_Software/blob/main/UHF%20Lite%20Manual.d
   
 ## Product License
 
-This is ***open source*** product. Kindly check LICENSE.md file for more information.
+This is ***open source*** product. Kindly check the LICENSE.md file for more information.
 
 Please contact support@sb-components.co.uk for technical support.
 <p align="center">
