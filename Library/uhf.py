@@ -3,14 +3,36 @@ import serial
 import binascii
 import time
 import array
-####################################################
-STARTBYTE     ='BB00'
-ENDBYTE       ='7E'
-HARD_VERSION  ='0300010004'
-MULTIPLE_READ ='27000322271083'
-SINGLE_READ   ='22000022'
-STOP_READ     ='28000028'
+
 ###################################################
+'''
+standard commands for UHF operations, refer command manual for more details
+https://github.com/sbcshop/UHF_Reader_Pico_W_Software/blob/main/documents/UHF%20Commands%20Manual.pdf
+So, you can add more commands for other operation
+'''
+
+STARTBYTE     ='BB00' # combine Header + Type
+ENDBYTE       ='7E'
+
+'''2.1 Get the reader module information'''
+HARD_VERSION  ='0300010004'
+
+''' 2.2 Single polling command '''
+SINGLE_READ   ='22000022'
+
+''' 2.3 Several times polling command '''
+MULTIPLE_READ ='27000322271083'
+
+STOP_READ     ='28000028'
+
+'''section: 2.12 Set Working Place'''
+SET_REGION_EU = '070001030B' #for Setting EU Region
+SET_REGION_US = '070001020A' #for Setting US Region
+
+'''Section: 2.16 Get transmitting power '''
+GET_TRANSMIT_PWR = 'B70000B7'
+####################################################
+
 class UHF():
     def __init__(self,port,baudrate):
         self.serial = serial.Serial(port='/dev/ttyS0',baudrate = 115200,
@@ -148,7 +170,7 @@ class UHF():
         #print(rec_data)    
     
     def setRegion_US(self):
-        data = self.send_command([STARTBYTE, write_tag, ENDBYTE])
+        data = self.send_command([STARTBYTE, SET_REGION_US, ENDBYTE])
         time.sleep(0.5)
         rec_data = self.serial.read(24)
         #print(rec_data)
